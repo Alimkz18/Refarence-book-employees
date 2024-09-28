@@ -14,7 +14,7 @@ namespace Refarence_book_employees
         {
             while (true)
             {
-                WriteLine("Select action: ");
+                WriteLine("Select action: Hello World");
                 WriteLine("1 - Display data on screen");
                 WriteLine("2 - Add new entry");
                 WriteLine("0 - Exit");
