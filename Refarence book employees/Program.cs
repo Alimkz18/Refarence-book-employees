@@ -14,9 +14,9 @@ namespace Refarence_book_employees
         {
             while (true)
             {
-                WriteLine("Select action: Hello World 123");
-                WriteLine("1 - Display data on screen");
-                WriteLine("2 - Add new entry 123");
+                WriteLine("Select action: ");
+                WriteLine("1 - Display data on screen: ");
+                WriteLine("2 - Add new entry: ");
                 WriteLine("0 - Exit");
 
                 string choice = Console.ReadLine();
